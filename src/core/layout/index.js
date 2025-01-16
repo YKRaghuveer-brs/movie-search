@@ -51,9 +51,9 @@ export const Layout = (props) => {
 
       <footer className="footer footer-dark">
         <div className="d-flex justify-content-between px-5">
-          <div>ALL RIGHTS RESERVED BRS STUDIO 2022</div>
+          
           <div>
-            <img src={require("../../footer-logo.png")} alt="logo" />
+            
           </div>
         </div>
       </footer>
